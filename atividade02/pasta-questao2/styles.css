@@ -1,0 +1,23 @@
+nav a{
+    display: inline-block;
+    width:20vw;
+    background-color:cornflowerblue;
+    padding:10px;
+    margin:5px;
+    color:black;
+    border-radius: 10px;
+}
+
+section input{
+    display: inline-block;
+    width: 45%;
+    padding:10px;
+    margin:5px;
+    background-color: antiquewhite;
+    color: darkblue;
+    border:1px solid;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px rgba(0,0,0,0.1);
+
+
+}
